@@ -12,6 +12,7 @@ mod arrays;
 mod vectors;
 mod conditionals;
 mod loops;
+mod functions;
 fn main() {
     // println!("Hello, Harshiv!");
     // print::run();
@@ -29,7 +30,9 @@ fn main() {
     // vectors::run();
     // println!("workspace for conditionals");
     // conditionals::run();
-    println!("loops workspace");
-    loops::run();
+    // println!("loops workspace");
+    // loops::run();
+    println!("functions workspace");
+    functions::run()
 
 }
