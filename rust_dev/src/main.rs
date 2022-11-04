@@ -10,6 +10,8 @@ mod strings;
 mod tuples;
 mod arrays;
 mod vectors;
+mod conditionals;
+mod loops;
 fn main() {
     // println!("Hello, Harshiv!");
     // print::run();
@@ -23,7 +25,11 @@ fn main() {
     // tuples::run();
     // println!("below is workspace of arrays");
     // arrays::run();
-    println!("workspace for vectors");
-    vectors::run();
+    // println!("workspace for vectors");
+    // vectors::run();
+    // println!("workspace for conditionals");
+    // conditionals::run();
+    println!("loops workspace");
+    loops::run();
 
 }
