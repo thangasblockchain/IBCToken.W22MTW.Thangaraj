@@ -29,3 +29,6 @@ cargo build --release for production
 
 Task 1 :
 Create a function in print.rs and Run it in main.rs 
+
+
+variables are immutables by default.
