@@ -1,5 +1,0 @@
-Rust don't have garbage collector - no need to worry about memory allocation and de allocation
-
-No need of reference
-
-cargo is a package manager in Rust
