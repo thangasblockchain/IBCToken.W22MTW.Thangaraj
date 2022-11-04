@@ -13,3 +13,10 @@ cargo init -- creates a rust_sandbox / devspace
 
 creates a src/main.rs and traget along with cargo.toml
 toml is similiar to what we see as package.json in nodejs
+
+
+cargo init rust_dev
+
+cargo run
+afterwards
+we can also run ./target/debug/rust_dev 
