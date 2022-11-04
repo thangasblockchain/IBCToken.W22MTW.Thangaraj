@@ -3,4 +3,4 @@
 
 WBA - Web3 Build Alliance 
 
-tagging @Japarjam
+@Japarjam
