@@ -18,13 +18,13 @@ pub fn run(){
     let istrue = a > c;
 
     //char
-    let Char = 'c';
-    let Uni = '\u{1F602}';
+    let _Chartr = 'c';
+    let _Unicde = '\u{1F602}';
 
     // to know the max size of a type
     println!("Max of i32 : {}",std::i32::MAX);
     println!("Max of i64 : {}",std::i64::MAX);
     println!("istrue: {}",istrue);
-    println!("char {}",Char);
-    println!("UNICODE {}",Uni);
+    println!("char {}",_Chartr);
+    println!("UNICODE {}",_Unicde);
 }
