@@ -20,3 +20,12 @@ cargo init rust_dev
 cargo run
 afterwards
 we can also run ./target/debug/rust_dev 
+
+cargo build
+
+and 
+
+cargo build --release for production
+
+Task 1 :
+Create a function in print.rs and Run it in main.rs 
