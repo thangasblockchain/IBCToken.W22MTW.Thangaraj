@@ -3,3 +3,8 @@ Rust don't have garbage collector - no need to worry about memory allocation and
 No need of reference
 
 cargo is a package manager in Rust
+
+
+rustc <file-name> creates an executable file
+
+./<executable-file-name> to run from cli
