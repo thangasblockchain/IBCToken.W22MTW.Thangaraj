@@ -9,6 +9,7 @@ mod types;
 mod strings;
 mod tuples;
 mod arrays;
+mod vectors;
 fn main() {
     // println!("Hello, Harshiv!");
     // print::run();
@@ -20,7 +21,9 @@ fn main() {
     // strings::run();
     // println!("below is workspace of tuples");
     // tuples::run();
-    println!("below is workspace of arrays");
-    arrays::run();
+    // println!("below is workspace of arrays");
+    // arrays::run();
+    println!("workspace for vectors");
+    vectors::run();
 
 }
