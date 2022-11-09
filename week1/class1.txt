@@ -1,1 +1,13 @@
 class 1 - 11-7-2022
+
+we use unsigned int among the primitive data types - scalar in cosmwasm rust.
+signed integers allow negative values.
+
+compound types -
+arrays and tuples
+Rust can infer from context.
+
+cosmwasm types -
+Uint64,Uint128,Uint256,Uint512
+Decimal,Decimal256 (instead of float, use decimal)
+for types larger than 64, should use cosmwasm types. bcoz they have better composability with jsonschema.
